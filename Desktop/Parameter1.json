@@ -1,0 +1,30 @@
+[ 
+  { 
+    "ParameterKey": "AvailabilityZoneforPublicSubnet2", 
+    "ParameterValue": "us-east-1f" 
+  }, 
+  { 
+   "ParameterKey": "AvailabilityZoneforPublicSubnet1", 
+   "ParameterValue": "us-east-1e" 
+ },
+ { 
+   "ParameterKey": "AvailabilityZoneforPrivateAppSubnet1", 
+   "ParameterValue": "us-east-1a" 
+ },
+ { 
+   "ParameterKey": "AvailabilityZoneforPrivateAppSubnet2", 
+   "ParameterValue": "us-east-1b" 
+ },
+ { 
+   "ParameterKey": "AvailabilityZoneforPrivateDBSubnet1", 
+   "ParameterValue": "us-east-1c" 
+ },
+ { 
+   "ParameterKey": "AvailabilityZoneforPrivateDBSubnet2", 
+   "ParameterValue": "us-east-1d" 
+ },
+ { 
+   "ParameterKey": "EnvironmentType", 
+   "ParameterValue": "Dev" 
+ },
+]
